@@ -1,14 +1,14 @@
-layout_spectrum: 0.8711464970838279
-typography_spectrum: 0.8496253264602274
+layout_spectrum: 0.6889165074098855
+typography_spectrum: 0.9771272416692227
 color:
-  brandStrength: 0.9718088023364544
-  lightness: 0.8194351340644062
-  saturation: 0.5450093804392964
-  rhythmicContrast: 0.5424269791692495
+  brandStrength: 0.7906921771354973
+  lightness: 0.22798760724253953
+  saturation: 0.7252018305007368
+  rhythmicContrast: 0.22416134597733617
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Tinker Tailor Soldier Spy
